@@ -1,0 +1,21 @@
+E:\C# Course\Chapter 10 - 2\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.exe.config
+E:\C# Course\Chapter 10 - 2\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.exe
+E:\C# Course\Chapter 10 - 2\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.pdb
+E:\C# Course\Chapter 10 - 2\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.csprojResolveAssemblyReference.cache
+E:\C# Course\Chapter 10 - 2\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 10 - 2\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.exe
+E:\C# Course\Chapter 10 - 2\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.pdb
+C:\Users\Ahmad\Desktop\Chap 10\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.exe.config
+C:\Users\Ahmad\Desktop\Chap 10\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.exe
+C:\Users\Ahmad\Desktop\Chap 10\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.pdb
+C:\Users\Ahmad\Desktop\Chap 10\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Chap 10\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Chap 10\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.exe
+C:\Users\Ahmad\Desktop\Chap 10\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 10\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 10\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 10\AssignmentNo23\AssignmentNo23\bin\Debug\AssignmentNo23.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 10\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 10\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 10\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 10\AssignmentNo23\AssignmentNo23\obj\Debug\AssignmentNo23.pdb
